@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahshzd01
 - 👀 I’m interested in Web Development, Cyber Security, Ethical hacking and game development
-- 🌱 I’m currently studying Computer Science @FAST National University, Islamabad campus
+- 🌱 I’m a Graduate of Computer Science from @FAST National University, Islamabad campus
 - 💞️ I’m looking to collaborate on any web related projects as I have plenty of expertise in the back-end and front-end development
 - 📫 You can reach me at my email: abdullahshzd.69@gmail.com
 
